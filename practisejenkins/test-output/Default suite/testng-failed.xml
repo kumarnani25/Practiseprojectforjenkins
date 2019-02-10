@@ -6,6 +6,7 @@
       <class name="com.demo.learning.invokebrowser">
         <methods>
           <include name="test"/>
+          <include name="teardown"/>
         </methods>
       </class> <!-- com.demo.learning.invokebrowser -->
     </classes>
